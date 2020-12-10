@@ -9,7 +9,10 @@
   "author": "mihir",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "cors": "^2.8.5",
+=======
+>>>>>>> e84f58b845303df8c21103af14104888ffae176d
     "express": "^4.17.1",
     "mongoose": "^5.11.1"
   }
